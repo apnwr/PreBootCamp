@@ -1,0 +1,10 @@
+var a = 10;
+var b = 5;
+var add = a + b;
+var subtract = a - b;
+var multiplication = a * b;
+var division = a / b;
+console.log("add : " + add);
+console.log(" subtract : " + subtract);
+console.log(" multiplication : " + multiplication);
+console.log(" division : " + division);
